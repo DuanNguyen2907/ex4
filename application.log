@@ -1,0 +1,18 @@
+2023-03-20 13:54:00.626 [main] INFO  com.sapo.edu.demo.DemoApplication - Starting DemoApplication on DuanNQ-TTS with PID 18572 (started by Wind in E:\Sapo-clone\duannc\Ex4_Spring Boot Basic\Ex4 - Basic Spring)
+2023-03-20 13:54:00.629 [main] INFO  com.sapo.edu.demo.DemoApplication - The following profiles are active: local,common
+2023-03-20 13:54:01.085 [main] INFO  com.sapo.edu.demo.DemoApplication - Started DemoApplication in 0.765 seconds (JVM running for 1.832)
+2023-03-20 13:54:10.864 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - CustomerId: duan
+2023-03-20 13:54:10.864 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Balance: 12000000
+2023-03-20 13:54:12.175 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM is Bidv
+2023-03-20 13:54:12.175 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM money is 120000000
+2023-03-20 13:54:20.778 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Deposit success: +20000000
+2023-03-20 13:54:26.350 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - CustomerId: duan
+2023-03-20 13:54:26.350 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Balance: 32000000
+2023-03-20 13:54:27.735 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM is Bidv
+2023-03-20 13:54:27.735 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM money is 140000000
+2023-03-20 13:54:46.595 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Insufficient Balance
+2023-03-20 13:54:55.588 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Withdraw success: -30000000
+2023-03-20 13:54:57.907 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - CustomerId: duan
+2023-03-20 13:54:57.908 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Balance: 2000000
+2023-03-20 13:54:58.701 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM is Bidv
+2023-03-20 13:54:58.701 [main] INFO  c.sapo.edu.demo.classes.PrinterFile - Current ATM money is 110000000

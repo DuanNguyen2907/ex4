@@ -1,0 +1,14 @@
+atm:
+  name: Bidv
+  price: 120000000
+
+logging:
+  config: classpath:logback.xml
+---
+spring.profiles: local
+spring.profiles.include: common, local
+---
+spring.profiles: aws
+spring.profiles.include: common, aws
+---
+-Dspring.profiles.active=local
